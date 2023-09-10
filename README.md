@@ -1,4 +1,4 @@
-# E-Commerce platform + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
+# E-Commerce platform + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
 [Project DEMO](https://ecommerce-admin-rho-two.vercel.app)
 
